@@ -26,6 +26,9 @@ The table below presents the performance of different forecasting architectures:
 | [Conformal Prediction](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Mapie.ipynb) | 0.925 | 6.755 | 85.191 | 9.230 | 0.122 |
 
 As a result, the research achieved a 15% reduction in the cost of contracted energy.
+
+![CNN Prediction](https://github.com/GLEYSONRN/mastersdegree/blob/main/cnn.svg)
+![Anual Forecasting](https://github.com/GLEYSONRN/mastersdegree/blob/main/forecast.svg)
 ---
 
 ## 📄 Published Paper  
