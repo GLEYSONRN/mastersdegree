@@ -90,4 +90,4 @@ For any issues, feel free to open an [❗issue](https://github.com/GLEYSONRN/mas
 
 ---
 
-🔥 **Google DeepMind Research | UNICAMP | Energy Transition** 🌍
+**Google DeepMind Research | UNICAMP | Energy Transition** 🌍
