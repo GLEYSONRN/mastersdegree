@@ -8,9 +8,9 @@ This repository contains the implementation and results of a research study cond
 The study analyzed **time series data** from the **photovoltaic energy plant** at the **Multidisciplinary Gymnasium (GMU-PV)**. The research focused on:  
 
 ✅ Identifying **patterns** in energy production  
-✅ Developing **forecasting models** 📈  
-✅ Implementing **fault detection** techniques ⚠️  
-✅ Using **advanced Machine Learning & Deep Learning** 🤖  
+✅ Developing **forecasting models**   
+✅ Implementing **fault detection** techniques  
+✅ Using **advanced Machine Learning & Deep Learning**   
 
 ---
 
