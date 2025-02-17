@@ -14,7 +14,7 @@ The table below presents the performance of different forecasting architectures:
 | [AutoML](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_AutoML.ipynb) | 6.317669 | 73.302349 | 8.561679 | 0.127132 | 0.935494 |
 | [LSTM](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_LSTM.ipynb) | 6.854408 | 75.283450 | 8.676604 | 0.117381 | 0.933751 |
 | [Transformer](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Transformer.ipynb) | 6.360488 | 75.470166 | 8.687357 | 0.139891 | 0.933586 |
-| [MAPIE (Conformal)](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Mapie.ipynb) | 6.754780 | 85.191226 | 9.229909 | 0.121518 | 0.925032 |
+| [Conformal Prediction](https://github.com/GLEYSONRN/mastersdegree/blob/main/CPTEn_Mapie.ipynb) | 6.754780 | 85.191226 | 9.229909 | 0.121518 | 0.925032 |
 
 ## Published Paper
 This research led to the publication of the following paper:
