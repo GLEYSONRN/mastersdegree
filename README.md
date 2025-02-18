@@ -15,7 +15,7 @@ The study analyzed **time series data** from the **photovoltaic energy plant** a
 ---
 
 ## 📊 Performance Comparison
-The table below presents the performance of different forecasting architectures:  
+The table below presents the performance of different forecasting models:  
 
 | Model | R² | MAE | MSE | RMSE | MAPE |
 |-------------|------|------|------|------|------|
